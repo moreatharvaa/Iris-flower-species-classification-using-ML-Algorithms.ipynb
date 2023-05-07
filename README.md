@@ -8,3 +8,11 @@ The objective of this problem is to classify the three species of Iris flowers (
 3) Decision Trees
 
 The Data set used is from kaggle.com
+https://www.kaggle.com/uciml/iris
+
+<h2> Libraries </h2>
+
+1) pandas
+2) matplotlib
+3) seaborn
+4) scikit-learn
